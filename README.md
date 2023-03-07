@@ -1,2 +1,2 @@
-My first readme as a learner.
-update
+My first readme.
+update readme file for collaboration.
